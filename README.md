@@ -1,2 +1,2 @@
 # MightyBladePython
-Automation of the brazilian RPG system Mighty Blade using Jupyter Notebook
+Automação do sistema de RPG brasileiro Mighty Blade usando o Jupyter notebook.
