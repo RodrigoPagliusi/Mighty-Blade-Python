@@ -7,13 +7,13 @@ Para jogar, certifique-se de que seu notebook jupyter tenha os seguintes pacotes
 - jupyterthemes
 
 Caso contrário, instale-os na linha de comando:
-conda install -c anaconda openpyxl
-conda install -c conda-forge jupyterthemes
+- conda install -c anaconda openpyxl
+- conda install -c conda-forge jupyterthemes
 ou
-pip install openpyxl
-pip install jupyterthemes
+- pip install openpyxl
+- pip install jupyterthemes
 ou
-Ou da forma que preferir.
+- Ou da forma que preferir
 
 Para começar, abra o arquivo "Campanha", ele o guiará por toda a campanha,
 começando pela criação do personagem, compras de equipamentos e assim por diante.
