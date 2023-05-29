@@ -14,8 +14,9 @@ Caso contrário, instale-os na linha de comando:
 
 ou
 
-- pip install openpyxl
-- pip install jupyterthemes
+`pip install openpyxl`
+
+`pip install jupyterthemes`
 
 ou
 
