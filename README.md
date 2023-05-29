@@ -7,8 +7,8 @@ Para jogar, certifique-se de que seu notebook jupyter tenha os seguintes pacotes
 - jupyterthemes
 
 Caso contrário, instale-os na linha de comando:
-- conda install -c anaconda openpyxl
-- conda install -c conda-forge jupyterthemes
+`conda install -c anaconda openpyxl`
+`conda install -c conda-forge jupyterthemes`
 
 ou
 
