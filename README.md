@@ -18,6 +18,7 @@ ou
 
 `pip install jupyterthemes`
 
+
 ou da forma que preferir
 
 Para começar, abra o arquivo "Campanha", ele o guiará por toda a campanha,
