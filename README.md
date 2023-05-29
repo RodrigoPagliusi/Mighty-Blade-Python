@@ -19,7 +19,7 @@ ou
 `pip install jupyterthemes`
 
 
-ou da forma que preferir
+ou da forma que preferir.
 
 Para começar, abra o arquivo "Campanha", ele o guiará por toda a campanha,
 começando pela criação do personagem, compras de equipamentos e assim por diante.
